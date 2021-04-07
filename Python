@@ -1,0 +1,9 @@
+You can count number of words in a text file in Python by following a sequence of steps.
+To count the number of words in a text file, follow these steps.
+Open the file in read mode and handle it in text mode.
+Read the text using read() function.
+Split the text using space separator. We assume that words in a sentence are separated by a space character.
+The length of the split list should equal the number of words in the text file.
+You can refine the count by cleaning the string prior to splitting or validating the words after splitting.
+
+Python is very simple.
