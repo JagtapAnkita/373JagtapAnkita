@@ -1,0 +1,473 @@
+State,Districts,Year,Season,Crop,Area,Production
+Maharashtra,AHMEDNAGAR,2010,Kharif     ,Arhar/Tur,17600,11300
+Maharashtra,AHMEDNAGAR,2010,Kharif     ,Bajra,196000,186800
+Maharashtra,AHMEDNAGAR,2010,Kharif     ,Cotton(lint),101700,221100
+Maharashtra,AHMEDNAGAR,2010,Kharif     ,Groundnut,4200,3600
+Maharashtra,AHMEDNAGAR,2010,Kharif     ,Maize,45300,139500
+Maharashtra,AHMEDNAGAR,2010,Kharif     ,Moong(Green Gram),15900,12400
+Maharashtra,AHMEDNAGAR,2010,Kharif     ,Niger seed,1900,700
+Maharashtra,AHMEDNAGAR,2010,Kharif     ,Ragi,2800,2600
+Maharashtra,AHMEDNAGAR,2010,Kharif     ,Rice,7500,7000
+Maharashtra,AHMEDNAGAR,2010,Kharif     ,Sesamum,500,100
+Maharashtra,AHMEDNAGAR,2010,Kharif     ,Soyabean,50700,90800
+Maharashtra,AHMEDNAGAR,2010,Kharif     ,Sugarcane,126000,11516400
+Maharashtra,AHMEDNAGAR,2010,Kharif     ,Sunflower,8200,3400
+Maharashtra,AHMEDNAGAR,2010,Kharif     ,Urad,12100,7700
+Maharashtra,AHMEDNAGAR,2010,Rabi       ,Gram,115200,94000
+Maharashtra,AHMEDNAGAR,2010,Rabi       ,Jowar,540000,318000
+Maharashtra,AHMEDNAGAR,2010,Rabi       ,Linseed,500,100
+Maharashtra,AHMEDNAGAR,2010,Rabi       ,Maize,13200,26300
+Maharashtra,AHMEDNAGAR,2010,Rabi       ,Safflower,8800,5300
+Maharashtra,AHMEDNAGAR,2010,Rabi       ,Sesamum,100,30
+Maharashtra,AHMEDNAGAR,2010,Rabi       ,Sunflower,1000,800
+Maharashtra,AHMEDNAGAR,2010,Rabi       ,Wheat,133700,248900
+Maharashtra,AHMEDNAGAR,2011,Kharif     ,Arhar/Tur,12800,6400
+Maharashtra,AHMEDNAGAR,2011,Kharif     ,Bajra,184700,179500
+Maharashtra,AHMEDNAGAR,2011,Kharif     ,Castor seed,100,20
+Maharashtra,AHMEDNAGAR,2011,Kharif     ,Cotton(lint),112000,238100
+Maharashtra,AHMEDNAGAR,2011,Kharif     ,Groundnut,4500,3300
+Maharashtra,AHMEDNAGAR,2011,Kharif     ,Maize,46300,125500
+Maharashtra,AHMEDNAGAR,2011,Kharif     ,Moong(Green Gram),6400,1700
+Maharashtra,AHMEDNAGAR,2011,Kharif     ,Niger seed,1900,700
+Maharashtra,AHMEDNAGAR,2011,Kharif     ,Other Kharif pulses,6200,1100
+Maharashtra,AHMEDNAGAR,2011,Kharif     ,Ragi,2800,3200
+Maharashtra,AHMEDNAGAR,2011,Kharif     ,Rice,7900,7800
+Maharashtra,AHMEDNAGAR,2011,Kharif     ,Sesamum,500,100
+Maharashtra,AHMEDNAGAR,2011,Kharif     ,Soyabean,58600,122700
+Maharashtra,AHMEDNAGAR,2011,Kharif     ,Sunflower,3200,1500
+Maharashtra,AHMEDNAGAR,2011,Kharif     ,Urad,8100,7500
+Maharashtra,AHMEDNAGAR,2011,Rabi       ,Gram,45300,27700
+Maharashtra,AHMEDNAGAR,2011,Rabi       ,Jowar,434600,123200
+Maharashtra,AHMEDNAGAR,2011,Rabi       ,Linseed,300,100
+Maharashtra,AHMEDNAGAR,2011,Rabi       ,Maize,9200,22600
+Maharashtra,AHMEDNAGAR,2011,Rabi       ,Other  Rabi pulses,300,300
+Maharashtra,AHMEDNAGAR,2011,Rabi       ,Safflower,6700,1800
+Maharashtra,AHMEDNAGAR,2011,Rabi       ,Sunflower,400,200
+Maharashtra,AHMEDNAGAR,2011,Rabi       ,Wheat,48100,88700
+Maharashtra,AHMEDNAGAR,2012,Kharif     ,Arhar/Tur,9500,2200
+Maharashtra,AHMEDNAGAR,2012,Kharif     ,Bajra,160500,55400
+Maharashtra,AHMEDNAGAR,2012,Kharif     ,Castor seed,200,20
+Maharashtra,AHMEDNAGAR,2012,Kharif     ,Cotton(lint),96200,88100
+Maharashtra,AHMEDNAGAR,2012,Kharif     ,Groundnut,4200,2400
+Maharashtra,AHMEDNAGAR,2012,Kharif     ,Maize,45000,91900
+Maharashtra,AHMEDNAGAR,2012,Kharif     ,Moong(Green Gram),5700,600
+Maharashtra,AHMEDNAGAR,2012,Kharif     ,Niger seed,2000,700
+Maharashtra,AHMEDNAGAR,2012,Kharif     ,Other Kharif pulses,3800,600
+Maharashtra,AHMEDNAGAR,2012,Kharif     ,Ragi,2800,3100
+Maharashtra,AHMEDNAGAR,2012,Kharif     ,Rice,7500,4600
+Maharashtra,AHMEDNAGAR,2012,Kharif     ,Sesamum,300,100
+Maharashtra,AHMEDNAGAR,2012,Kharif     ,Soyabean,56800,28100
+Maharashtra,AHMEDNAGAR,2012,Kharif     ,Sunflower,1400,500
+Maharashtra,AHMEDNAGAR,2012,Kharif     ,Urad,6100,1100
+Maharashtra,AHMEDNAGAR,2012,Rabi       ,Gram,59400,21700
+Maharashtra,AHMEDNAGAR,2012,Rabi       ,Jowar,444800,67000
+Maharashtra,AHMEDNAGAR,2012,Rabi       ,Linseed,400,40
+Maharashtra,AHMEDNAGAR,2012,Rabi       ,Maize,14700,24800
+Maharashtra,AHMEDNAGAR,2012,Rabi       ,Other  Rabi pulses,1500,500
+Maharashtra,AHMEDNAGAR,2012,Rabi       ,Safflower,1000,50
+Maharashtra,AHMEDNAGAR,2012,Rabi       ,Sunflower,200,50
+Maharashtra,AHMEDNAGAR,2012,Rabi       ,Wheat,38900,46100
+Maharashtra,AHMEDNAGAR,2013,Kharif     ,Arhar/Tur,11000,9200
+Maharashtra,AHMEDNAGAR,2013,Kharif     ,Bajra,181800,188200
+Maharashtra,AHMEDNAGAR,2013,Kharif     ,Cotton(lint),104700,222400
+Maharashtra,AHMEDNAGAR,2013,Kharif     ,Groundnut,4700,3700
+Maharashtra,AHMEDNAGAR,2013,Kharif     ,Maize,61000,296900
+Maharashtra,AHMEDNAGAR,2013,Kharif     ,Moong(Green Gram),5700,4800
+Maharashtra,AHMEDNAGAR,2013,Kharif     ,Niger seed,2000,700
+Maharashtra,AHMEDNAGAR,2013,Kharif     ,Other Kharif pulses,10400,3100
+Maharashtra,AHMEDNAGAR,2013,Kharif     ,Ragi,2800,3600
+Maharashtra,AHMEDNAGAR,2013,Kharif     ,Rice,7900,19000
+Maharashtra,AHMEDNAGAR,2013,Kharif     ,Sesamum,200,100
+Maharashtra,AHMEDNAGAR,2013,Kharif     ,Soyabean,65900,74500
+Maharashtra,AHMEDNAGAR,2013,Kharif     ,Sunflower,1300,800
+Maharashtra,AHMEDNAGAR,2013,Kharif     ,Urad,6100,3000
+Maharashtra,AHMEDNAGAR,2013,Rabi       ,Gram,120700,93300
+Maharashtra,AHMEDNAGAR,2013,Rabi       ,Jowar,503900,354500
+Maharashtra,AHMEDNAGAR,2013,Rabi       ,Linseed,200,100
+Maharashtra,AHMEDNAGAR,2013,Rabi       ,Maize,20900,59300
+Maharashtra,AHMEDNAGAR,2013,Rabi       ,Other  Rabi pulses,800,400
+Maharashtra,AHMEDNAGAR,2013,Rabi       ,Safflower,1600,200
+Maharashtra,AHMEDNAGAR,2013,Rabi       ,Sesamum,600,100
+Maharashtra,AHMEDNAGAR,2013,Rabi       ,Wheat,51900,100700
+Maharashtra,AHMEDNAGAR,2014,Kharif     ,Arhar/Tur,9100,1800
+Maharashtra,AHMEDNAGAR,2014,Kharif     ,Bajra,186000,107700
+Maharashtra,AHMEDNAGAR,2014,Kharif     ,Cotton(lint),102600,96700
+Maharashtra,AHMEDNAGAR,2014,Kharif     ,Groundnut,4300,2800
+Maharashtra,AHMEDNAGAR,2014,Kharif     ,Maize,68100,176100
+Maharashtra,AHMEDNAGAR,2014,Kharif     ,Moong(Green Gram),5600,3200
+Maharashtra,AHMEDNAGAR,2014,Kharif     ,Niger seed,1500,400
+Maharashtra,AHMEDNAGAR,2014,Kharif     ,Other Kharif pulses,3000,800
+Maharashtra,AHMEDNAGAR,2014,Kharif     ,Ragi,3000,3300
+Maharashtra,AHMEDNAGAR,2014,Kharif     ,Rice,8600,2200
+Maharashtra,AHMEDNAGAR,2014,Kharif     ,Soyabean,58200,35900
+Maharashtra,AHMEDNAGAR,2014,Kharif     ,Sunflower,800,400
+Maharashtra,AHMEDNAGAR,2014,Rabi       ,Gram,115200,85200
+Maharashtra,AHMEDNAGAR,2014,Rabi       ,Jowar,443600,279800
+Maharashtra,AHMEDNAGAR,2014,Rabi       ,Maize,29400,57600
+Maharashtra,AHMEDNAGAR,2014,Rabi       ,Other  Rabi pulses,900,200
+Maharashtra,AHMEDNAGAR,2014,Rabi       ,Wheat,57200,85000
+Maharashtra,AKOLA,2010,Kharif     ,Arhar/Tur,61500,52100
+Maharashtra,AKOLA,2010,Kharif     ,Bajra,600,300
+Maharashtra,AKOLA,2010,Kharif     ,Castor seed,100,100
+Maharashtra,AKOLA,2010,Kharif     ,Cotton(lint),167800,268900
+Maharashtra,AKOLA,2010,Kharif     ,Jowar,51200,39400
+Maharashtra,AKOLA,2010,Kharif     ,Maize,1100,2700
+Maharashtra,AKOLA,2010,Kharif     ,Moong(Green Gram),55800,41200
+Maharashtra,AKOLA,2010,Kharif     ,Sesamum,1600,700
+Maharashtra,AKOLA,2010,Kharif     ,Soyabean,126600,238400
+Maharashtra,AKOLA,2010,Kharif     ,Sugarcane,300,20000
+Maharashtra,AKOLA,2010,Kharif     ,Sunflower,3700,2000
+Maharashtra,AKOLA,2010,Kharif     ,Urad,13700,9300
+Maharashtra,AKOLA,2010,Rabi       ,Gram,66700,95500
+Maharashtra,AKOLA,2010,Rabi       ,Jowar,100,100
+Maharashtra,AKOLA,2010,Rabi       ,Maize,400,800
+Maharashtra,AKOLA,2010,Rabi       ,Safflower,2000,500
+Maharashtra,AKOLA,2010,Rabi       ,Sunflower,3000,2100
+Maharashtra,AKOLA,2010,Rabi       ,Wheat,37800,89900
+Maharashtra,AKOLA,2011,Kharif     ,Arhar/Tur,62200,22000
+Maharashtra,AKOLA,2011,Kharif     ,Bajra,500,300
+Maharashtra,AKOLA,2011,Kharif     ,Cotton(lint),169400,259300
+Maharashtra,AKOLA,2011,Kharif     ,Jowar,40600,124300
+Maharashtra,AKOLA,2011,Kharif     ,Maize,1100,3100
+Maharashtra,AKOLA,2011,Kharif     ,Moong(Green Gram),47000,33000
+Maharashtra,AKOLA,2011,Kharif     ,Other Kharif pulses,100,100
+Maharashtra,AKOLA,2011,Kharif     ,Sesamum,1100,400
+Maharashtra,AKOLA,2011,Kharif     ,Soyabean,140600,167700
+Maharashtra,AKOLA,2011,Kharif     ,Sunflower,1800,1000
+Maharashtra,AKOLA,2011,Kharif     ,Urad,11600,8100
+Maharashtra,AKOLA,2011,Rabi       ,Gram,66200,23800
+Maharashtra,AKOLA,2011,Rabi       ,Jowar,100,100
+Maharashtra,AKOLA,2011,Rabi       ,Maize,200,500
+Maharashtra,AKOLA,2011,Rabi       ,Safflower,500,200
+Maharashtra,AKOLA,2011,Rabi       ,Sunflower,900,600
+Maharashtra,AKOLA,2011,Rabi       ,Wheat,16700,36600
+Maharashtra,AKOLA,2012,Kharif     ,Arhar/Tur,62500,93100
+Maharashtra,AKOLA,2012,Kharif     ,Bajra,500,300
+Maharashtra,AKOLA,2012,Kharif     ,Cotton(lint),169400,324000
+Maharashtra,AKOLA,2012,Kharif     ,Jowar,41600,71800
+Maharashtra,AKOLA,2012,Kharif     ,Maize,500,1100
+Maharashtra,AKOLA,2012,Kharif     ,Moong(Green Gram),47000,12700
+Maharashtra,AKOLA,2012,Kharif     ,Other Kharif pulses,500,300
+Maharashtra,AKOLA,2012,Kharif     ,Sesamum,1100,300
+Maharashtra,AKOLA,2012,Kharif     ,Soyabean,151000,290400
+Maharashtra,AKOLA,2012,Kharif     ,Sunflower,400,200
+Maharashtra,AKOLA,2012,Kharif     ,Urad,11800,3800
+Maharashtra,AKOLA,2012,Rabi       ,Gram,80400,57900
+Maharashtra,AKOLA,2012,Rabi       ,Safflower,500,300
+Maharashtra,AKOLA,2012,Rabi       ,Sunflower,200,100
+Maharashtra,AKOLA,2012,Rabi       ,Wheat,19900,33900
+Maharashtra,AKOLA,2013,Kharif     ,Arhar/Tur,66500,83800
+Maharashtra,AKOLA,2013,Kharif     ,Bajra,200,100
+Maharashtra,AKOLA,2013,Kharif     ,Cotton(lint),147300,343600
+Maharashtra,AKOLA,2013,Kharif     ,Jowar,36800,21800
+Maharashtra,AKOLA,2013,Kharif     ,Maize,100,300
+Maharashtra,AKOLA,2013,Kharif     ,Moong(Green Gram),47000,8300
+Maharashtra,AKOLA,2013,Kharif     ,Other Kharif pulses,300,200
+Maharashtra,AKOLA,2013,Kharif     ,Sesamum,900,100
+Maharashtra,AKOLA,2013,Kharif     ,Soyabean,187100,191900
+Maharashtra,AKOLA,2013,Kharif     ,Urad,12400,2800
+Maharashtra,AKOLA,2013,Rabi       ,Gram,95100,121200
+Maharashtra,AKOLA,2013,Rabi       ,Safflower,500,300
+Maharashtra,AKOLA,2013,Rabi       ,Wheat,19900,25200
+Maharashtra,AKOLA,2014,Kharif     ,Arhar/Tur,50100,19600
+Maharashtra,AKOLA,2014,Kharif     ,Bajra,300,100
+Maharashtra,AKOLA,2014,Kharif     ,Cotton(lint),147000,122600
+Maharashtra,AKOLA,2014,Kharif     ,Jowar,12500,15100
+Maharashtra,AKOLA,2014,Kharif     ,Maize,100,200
+Maharashtra,AKOLA,2014,Kharif     ,Moong(Green Gram),21000,3200
+Maharashtra,AKOLA,2014,Kharif     ,Sesamum,1000,100
+Maharashtra,AKOLA,2014,Kharif     ,Soyabean,233100,69600
+Maharashtra,AKOLA,2014,Rabi       ,Gram,91100,59600
+Maharashtra,AKOLA,2014,Rabi       ,Safflower,500,300
+Maharashtra,AKOLA,2014,Rabi       ,Wheat,18300,25800
+Maharashtra,AMRAVATI,2010,Kharif     ,Arhar/Tur,119600,62900
+Maharashtra,AMRAVATI,2010,Kharif     ,Bajra,300,200
+Maharashtra,AMRAVATI,2010,Kharif     ,Castor seed,500,300
+Maharashtra,AMRAVATI,2010,Kharif     ,Cotton(lint),204300,336200
+Maharashtra,AMRAVATI,2010,Kharif     ,Groundnut,800,600
+Maharashtra,AMRAVATI,2010,Kharif     ,Jowar,48400,51700
+Maharashtra,AMRAVATI,2010,Kharif     ,Maize,1600,4000
+Maharashtra,AMRAVATI,2010,Kharif     ,Moong(Green Gram),55400,31300
+Maharashtra,AMRAVATI,2010,Kharif     ,Rice,3800,2800
+Maharashtra,AMRAVATI,2010,Kharif     ,Sesamum,600,200
+Maharashtra,AMRAVATI,2010,Kharif     ,Soyabean,273300,444500
+Maharashtra,AMRAVATI,2010,Kharif     ,Sugarcane,300,20700
+Maharashtra,AMRAVATI,2010,Kharif     ,Sunflower,600,300
+Maharashtra,AMRAVATI,2010,Kharif     ,Urad,5700,3000
+Maharashtra,AMRAVATI,2010,Rabi       ,Gram,99300,99800
+Maharashtra,AMRAVATI,2010,Rabi       ,Jowar,1100,1100
+Maharashtra,AMRAVATI,2010,Rabi       ,Rapeseed &Mustard,300,100
+Maharashtra,AMRAVATI,2010,Rabi       ,Safflower,700,300
+Maharashtra,AMRAVATI,2010,Rabi       ,Sunflower,15800,10800
+Maharashtra,AMRAVATI,2010,Rabi       ,Wheat,54700,105400
+Maharashtra,AMRAVATI,2011,Kharif     ,Arhar/Tur,127500,108900
+Maharashtra,AMRAVATI,2011,Kharif     ,Bajra,300,200
+Maharashtra,AMRAVATI,2011,Kharif     ,Castor seed,200,100
+Maharashtra,AMRAVATI,2011,Kharif     ,Cotton(lint),187400,270200
+Maharashtra,AMRAVATI,2011,Kharif     ,Groundnut,900,900
+Maharashtra,AMRAVATI,2011,Kharif     ,Jowar,39700,58300
+Maharashtra,AMRAVATI,2011,Kharif     ,Maize,1200,3300
+Maharashtra,AMRAVATI,2011,Kharif     ,Moong(Green Gram),49300,27900
+Maharashtra,AMRAVATI,2011,Kharif     ,Other Kharif pulses,1600,800
+Maharashtra,AMRAVATI,2011,Kharif     ,Rice,4100,3100
+Maharashtra,AMRAVATI,2011,Kharif     ,Sesamum,900,300
+Maharashtra,AMRAVATI,2011,Kharif     ,Soyabean,296700,373100
+Maharashtra,AMRAVATI,2011,Kharif     ,Sunflower,200,100
+Maharashtra,AMRAVATI,2011,Kharif     ,Urad,5700,3300
+Maharashtra,AMRAVATI,2011,Rabi       ,Gram,68900,67200
+Maharashtra,AMRAVATI,2011,Rabi       ,Jowar,600,500
+Maharashtra,AMRAVATI,2011,Rabi       ,Rapeseed &Mustard,2200,600
+Maharashtra,AMRAVATI,2011,Rabi       ,Safflower,100,100
+Maharashtra,AMRAVATI,2011,Rabi       ,Sunflower,1300,900
+Maharashtra,AMRAVATI,2011,Rabi       ,Wheat,32500,58900
+Maharashtra,AMRAVATI,2012,Kharif     ,Arhar/Tur,123800,133100
+Maharashtra,AMRAVATI,2012,Kharif     ,Bajra,300,200
+Maharashtra,AMRAVATI,2012,Kharif     ,Castor seed,1100,600
+Maharashtra,AMRAVATI,2012,Kharif     ,Cotton(lint),191300,611500
+Maharashtra,AMRAVATI,2012,Kharif     ,Groundnut,900,1000
+Maharashtra,AMRAVATI,2012,Kharif     ,Jowar,37700,49000
+Maharashtra,AMRAVATI,2012,Kharif     ,Maize,1200,2700
+Maharashtra,AMRAVATI,2012,Kharif     ,Moong(Green Gram),50800,11600
+Maharashtra,AMRAVATI,2012,Kharif     ,Other Kharif pulses,800,400
+Maharashtra,AMRAVATI,2012,Kharif     ,Rice,3800,1500
+Maharashtra,AMRAVATI,2012,Kharif     ,Sesamum,800,200
+Maharashtra,AMRAVATI,2012,Kharif     ,Soyabean,309500,471800
+Maharashtra,AMRAVATI,2012,Kharif     ,Sunflower,100,40
+Maharashtra,AMRAVATI,2012,Kharif     ,Urad,6300,2400
+Maharashtra,AMRAVATI,2012,Rabi       ,Gram,80300,100300
+Maharashtra,AMRAVATI,2012,Rabi       ,Safflower,100,100
+Maharashtra,AMRAVATI,2012,Rabi       ,Sunflower,100,50
+Maharashtra,AMRAVATI,2012,Rabi       ,Wheat,36100,71500
+Maharashtra,AMRAVATI,2013,Kharif     ,Arhar/Tur,96200,133900
+Maharashtra,AMRAVATI,2013,Kharif     ,Cotton(lint),186700,633200
+Maharashtra,AMRAVATI,2013,Kharif     ,Groundnut,1000,1200
+Maharashtra,AMRAVATI,2013,Kharif     ,Jowar,35200,22700
+Maharashtra,AMRAVATI,2013,Kharif     ,Maize,1000,2900
+Maharashtra,AMRAVATI,2013,Kharif     ,Moong(Green Gram),50800,10400
+Maharashtra,AMRAVATI,2013,Kharif     ,Other Kharif pulses,1100,600
+Maharashtra,AMRAVATI,2013,Kharif     ,Rice,4700,800
+Maharashtra,AMRAVATI,2013,Kharif     ,Soyabean,366400,352700
+Maharashtra,AMRAVATI,2013,Kharif     ,Sunflower,100,100
+Maharashtra,AMRAVATI,2013,Kharif     ,Urad,4800,1300
+Maharashtra,AMRAVATI,2013,Rabi       ,Gram,89900,103300
+Maharashtra,AMRAVATI,2013,Rabi       ,Other  Rabi pulses,300,200
+Maharashtra,AMRAVATI,2013,Rabi       ,Safflower,100,100
+Maharashtra,AMRAVATI,2013,Rabi       ,Wheat,42000,65000
+Maharashtra,AMRAVATI,2014,Kharif     ,Arhar/Tur,103800,36800
+Maharashtra,AMRAVATI,2014,Kharif     ,Castor seed,900,400
+Maharashtra,AMRAVATI,2014,Kharif     ,Cotton(lint),196500,196200
+Maharashtra,AMRAVATI,2014,Kharif     ,Groundnut,1100,500
+Maharashtra,AMRAVATI,2014,Kharif     ,Jowar,26800,27400
+Maharashtra,AMRAVATI,2014,Kharif     ,Maize,800,1500
+Maharashtra,AMRAVATI,2014,Kharif     ,Moong(Green Gram),24800,3200
+Maharashtra,AMRAVATI,2014,Kharif     ,Other Kharif pulses,600,300
+Maharashtra,AMRAVATI,2014,Kharif     ,Rice,5300,1600
+Maharashtra,AMRAVATI,2014,Kharif     ,Soyabean,370600,128300
+Maharashtra,AMRAVATI,2014,Rabi       ,Gram,126500,100400
+Maharashtra,AMRAVATI,2014,Rabi       ,Jowar,200,200
+Maharashtra,AMRAVATI,2014,Rabi       ,Maize,1800,300
+Maharashtra,AMRAVATI,2014,Rabi       ,Other  Rabi pulses,100,100
+Maharashtra,AMRAVATI,2014,Rabi       ,Safflower,100,100
+Maharashtra,AMRAVATI,2014,Rabi       ,Wheat,66400,87200
+Maharashtra,AURANGABAD,2010,Kharif     ,Arhar/Tur,60800,53400
+Maharashtra,AURANGABAD,2010,Kharif     ,Bajra,89800,126500
+Maharashtra,AURANGABAD,2010,Kharif     ,Castor seed,100,50
+Maharashtra,AURANGABAD,2010,Kharif     ,Cotton(lint),332900,879200
+Maharashtra,AURANGABAD,2010,Kharif     ,Groundnut,5900,4900
+Maharashtra,AURANGABAD,2010,Kharif     ,Jowar,7100,14800
+Maharashtra,AURANGABAD,2010,Kharif     ,Maize,138400,508200
+Maharashtra,AURANGABAD,2010,Kharif     ,Moong(Green Gram),11100,10400
+Maharashtra,AURANGABAD,2010,Kharif     ,Sesamum,1100,300
+Maharashtra,AURANGABAD,2010,Kharif     ,Soyabean,7700,16400
+Maharashtra,AURANGABAD,2010,Kharif     ,Sugarcane,23300,1959500
+Maharashtra,AURANGABAD,2010,Kharif     ,Sunflower,2300,1300
+Maharashtra,AURANGABAD,2010,Kharif     ,Urad,3800,2600
+Maharashtra,AURANGABAD,2010,Rabi       ,Gram,59900,55200
+Maharashtra,AURANGABAD,2010,Rabi       ,Jowar,80800,62800
+Maharashtra,AURANGABAD,2010,Rabi       ,Linseed,400,100
+Maharashtra,AURANGABAD,2010,Rabi       ,Maize,4300,13400
+Maharashtra,AURANGABAD,2010,Rabi       ,Safflower,2000,1600
+Maharashtra,AURANGABAD,2010,Rabi       ,Sunflower,1700,800
+Maharashtra,AURANGABAD,2010,Rabi       ,Wheat,75300,158400
+Maharashtra,AURANGABAD,2011,Kharif     ,Arhar/Tur,36100,28800
+Maharashtra,AURANGABAD,2011,Kharif     ,Bajra,68500,87800
+Maharashtra,AURANGABAD,2011,Kharif     ,Cotton(lint),379300,696500
+Maharashtra,AURANGABAD,2011,Kharif     ,Groundnut,5600,4500
+Maharashtra,AURANGABAD,2011,Kharif     ,Jowar,5900,11600
+Maharashtra,AURANGABAD,2011,Kharif     ,Maize,144200,469300
+Maharashtra,AURANGABAD,2011,Kharif     ,Moong(Green Gram),2200,1300
+Maharashtra,AURANGABAD,2011,Kharif     ,Niger seed,100,20
+Maharashtra,AURANGABAD,2011,Kharif     ,Other Kharif pulses,700,200
+Maharashtra,AURANGABAD,2011,Kharif     ,Sesamum,900,300
+Maharashtra,AURANGABAD,2011,Kharif     ,Soyabean,7800,11100
+Maharashtra,AURANGABAD,2011,Kharif     ,Sunflower,600,300
+Maharashtra,AURANGABAD,2011,Kharif     ,Urad,1400,1100
+Maharashtra,AURANGABAD,2011,Rabi       ,Gram,39600,30200
+Maharashtra,AURANGABAD,2011,Rabi       ,Jowar,86300,65200
+Maharashtra,AURANGABAD,2011,Rabi       ,Maize,2900,9200
+Maharashtra,AURANGABAD,2011,Rabi       ,Safflower,1300,800
+Maharashtra,AURANGABAD,2011,Rabi       ,Sunflower,300,100
+Maharashtra,AURANGABAD,2011,Rabi       ,Wheat,39900,74200
+Maharashtra,AURANGABAD,2012,Kharif     ,Arhar/Tur,36100,12000
+Maharashtra,AURANGABAD,2012,Kharif     ,Bajra,68500,44500
+Maharashtra,AURANGABAD,2012,Kharif     ,Castor seed,1500,300
+Maharashtra,AURANGABAD,2012,Kharif     ,Cotton(lint),379300,378400
+Maharashtra,AURANGABAD,2012,Kharif     ,Groundnut,5600,3000
+Maharashtra,AURANGABAD,2012,Kharif     ,Jowar,5900,6300
+Maharashtra,AURANGABAD,2012,Kharif     ,Maize,144200,291100
+Maharashtra,AURANGABAD,2012,Kharif     ,Moong(Green Gram),2200,600
+Maharashtra,AURANGABAD,2012,Kharif     ,Niger seed,100,20
+Maharashtra,AURANGABAD,2012,Kharif     ,Other Kharif pulses,400,40
+Maharashtra,AURANGABAD,2012,Kharif     ,Sesamum,900,200
+Maharashtra,AURANGABAD,2012,Kharif     ,Soyabean,7800,5800
+Maharashtra,AURANGABAD,2012,Kharif     ,Sunflower,600,300
+Maharashtra,AURANGABAD,2012,Kharif     ,Urad,1400,500
+Maharashtra,AURANGABAD,2012,Rabi       ,Gram,31500,8400
+Maharashtra,AURANGABAD,2012,Rabi       ,Jowar,96400,26000
+Maharashtra,AURANGABAD,2012,Rabi       ,Maize,5300,3500
+Maharashtra,AURANGABAD,2012,Rabi       ,Safflower,1000,300
+Maharashtra,AURANGABAD,2012,Rabi       ,Sunflower,400,100
+Maharashtra,AURANGABAD,2012,Rabi       ,Wheat,24300,21500
+Maharashtra,AURANGABAD,2013,Kharif     ,Arhar/Tur,28600,26800
+Maharashtra,AURANGABAD,2013,Kharif     ,Bajra,31000,38000
+Maharashtra,AURANGABAD,2013,Kharif     ,Cotton(lint),422600,1036100
+Maharashtra,AURANGABAD,2013,Kharif     ,Groundnut,4500,5300
+Maharashtra,AURANGABAD,2013,Kharif     ,Jowar,3600,6500
+Maharashtra,AURANGABAD,2013,Kharif     ,Maize,167900,759800
+Maharashtra,AURANGABAD,2013,Kharif     ,Moong(Green Gram),2200,2100
+Maharashtra,AURANGABAD,2013,Kharif     ,Other Kharif pulses,1200,300
+Maharashtra,AURANGABAD,2013,Kharif     ,Sesamum,600,200
+Maharashtra,AURANGABAD,2013,Kharif     ,Soyabean,11500,12500
+Maharashtra,AURANGABAD,2013,Kharif     ,Sunflower,400,200
+Maharashtra,AURANGABAD,2013,Kharif     ,Urad,1900,2200
+Maharashtra,AURANGABAD,2013,Rabi       ,Gram,42900,32600
+Maharashtra,AURANGABAD,2013,Rabi       ,Jowar,86200,65400
+Maharashtra,AURANGABAD,2013,Rabi       ,Maize,6400,22100
+Maharashtra,AURANGABAD,2013,Rabi       ,Safflower,1100,2100
+Maharashtra,AURANGABAD,2013,Rabi       ,Sunflower,500,200
+Maharashtra,AURANGABAD,2013,Rabi       ,Wheat,35400,54200
+Maharashtra,AURANGABAD,2014,Kharif     ,Arhar/Tur,32900,8700
+Maharashtra,AURANGABAD,2014,Kharif     ,Bajra,45300,24200
+Maharashtra,AURANGABAD,2014,Kharif     ,Cotton(lint),422600,244300
+Maharashtra,AURANGABAD,2014,Kharif     ,Groundnut,4100,900
+Maharashtra,AURANGABAD,2014,Kharif     ,Jowar,3700,1700
+Maharashtra,AURANGABAD,2014,Kharif     ,Maize,191700,175800
+Maharashtra,AURANGABAD,2014,Kharif     ,Moong(Green Gram),3700,800
+Maharashtra,AURANGABAD,2014,Kharif     ,Soyabean,18700,8500
+Maharashtra,AURANGABAD,2014,Rabi       ,Gram,41800,16300
+Maharashtra,AURANGABAD,2014,Rabi       ,Jowar,107100,44900
+Maharashtra,AURANGABAD,2014,Rabi       ,Maize,9000,11400
+Maharashtra,AURANGABAD,2014,Rabi       ,Safflower,600,200
+Maharashtra,AURANGABAD,2014,Rabi       ,Wheat,35400,33900
+Maharashtra,BEED,2010,Kharif     ,Bajra,122500,112800
+Maharashtra,BEED,2010,Kharif     ,Castor seed,900,400
+Maharashtra,BEED,2010,Kharif     ,Cotton(lint),276800,422200
+Maharashtra,BEED,2010,Kharif     ,Groundnut,4900,3000
+Maharashtra,BEED,2010,Kharif     ,Jowar,33600,43600
+Maharashtra,BEED,2010,Kharif     ,Maize,5400,8400
+Maharashtra,BEED,2010,Kharif     ,Moong(Green Gram),11300,8400
+Maharashtra,BEED,2010,Kharif     ,Niger seed,800,200
+Maharashtra,BEED,2010,Kharif     ,Rice,800,300
+Maharashtra,BEED,2010,Kharif     ,Sesamum,2400,600
+Maharashtra,BEED,2010,Kharif     ,Soyabean,70400,96600
+Maharashtra,BEED,2010,Kharif     ,Sugarcane,58800,3874900
+Maharashtra,BEED,2010,Kharif     ,Sunflower,3700,2200
+Maharashtra,BEED,2010,Kharif     ,Urad,13700,12000
+Maharashtra,BEED,2010,Rabi       ,Gram,57800,40600
+Maharashtra,BEED,2010,Rabi       ,Jowar,194400,140400
+Maharashtra,BEED,2010,Rabi       ,Linseed,1400,300
+Maharashtra,BEED,2010,Rabi       ,Maize,3300,4900
+Maharashtra,BEED,2010,Rabi       ,Rapeseed &Mustard,400,100
+Maharashtra,BEED,2010,Rabi       ,Safflower,6100,2500
+Maharashtra,BEED,2010,Rabi       ,Sunflower,3600,1600
+Maharashtra,BEED,2010,Rabi       ,Wheat,63600,82500
+Maharashtra,BEED,2011,Kharif     ,Arhar/Tur,50200,28800
+Maharashtra,BEED,2011,Kharif     ,Bajra,107100,108900
+Maharashtra,BEED,2011,Kharif     ,Castor seed,1000,300
+Maharashtra,BEED,2011,Kharif     ,Cotton(lint),329000,418900
+Maharashtra,BEED,2011,Kharif     ,Groundnut,3700,2500
+Maharashtra,BEED,2011,Kharif     ,Jowar,28800,32800
+Maharashtra,BEED,2011,Kharif     ,Maize,4600,5700
+Maharashtra,BEED,2011,Kharif     ,Moong(Green Gram),3100,1700
+Maharashtra,BEED,2011,Kharif     ,Niger seed,600,100
+Maharashtra,BEED,2011,Kharif     ,Other Kharif pulses,2300,900
+Maharashtra,BEED,2011,Kharif     ,Rice,600,300
+Maharashtra,BEED,2011,Kharif     ,Sesamum,1900,500
+Maharashtra,BEED,2011,Kharif     ,Soyabean,76400,118100
+Maharashtra,BEED,2011,Kharif     ,Sunflower,1900,1100
+Maharashtra,BEED,2011,Kharif     ,Urad,10300,8800
+Maharashtra,BEED,2011,Rabi       ,Gram,39600,24200
+Maharashtra,BEED,2011,Rabi       ,Jowar,170400,117700
+Maharashtra,BEED,2011,Rabi       ,Linseed,800,200
+Maharashtra,BEED,2011,Rabi       ,Maize,1800,2100
+Maharashtra,BEED,2011,Rabi       ,Other  Rabi pulses,1800,700
+Maharashtra,BEED,2011,Rabi       ,Rapeseed &Mustard,300,100
+Maharashtra,BEED,2011,Rabi       ,Safflower,3800,1200
+Maharashtra,BEED,2011,Rabi       ,Sunflower,1200,500
+Maharashtra,BEED,2011,Rabi       ,Wheat,39800,52800
+Maharashtra,BEED,2012,Kharif     ,Arhar/Tur,50200,20300
+Maharashtra,BEED,2012,Kharif     ,Bajra,107100,69000
+Maharashtra,BEED,2012,Kharif     ,Castor seed,1200,300
+Maharashtra,BEED,2012,Kharif     ,Cotton(lint),329000,341000
+Maharashtra,BEED,2012,Kharif     ,Groundnut,3700,1700
+Maharashtra,BEED,2012,Kharif     ,Jowar,28800,30300
+Maharashtra,BEED,2012,Kharif     ,Maize,4600,3600
+Maharashtra,BEED,2012,Kharif     ,Moong(Green Gram),3100,700
+Maharashtra,BEED,2012,Kharif     ,Niger seed,600,100
+Maharashtra,BEED,2012,Kharif     ,Other Kharif pulses,2300,400
+Maharashtra,BEED,2012,Kharif     ,Rice,600,300
+Maharashtra,BEED,2012,Kharif     ,Sesamum,1900,500
+Maharashtra,BEED,2012,Kharif     ,Soyabean,76400,127000
+Maharashtra,BEED,2012,Kharif     ,Sunflower,1900,800
+Maharashtra,BEED,2012,Kharif     ,Urad,10300,2100
+Maharashtra,BEED,2012,Rabi       ,Gram,39900,19900
+Maharashtra,BEED,2012,Rabi       ,Jowar,186500,48200
+Maharashtra,BEED,2012,Rabi       ,Linseed,700,100
+Maharashtra,BEED,2012,Rabi       ,Maize,5800,3800
+Maharashtra,BEED,2012,Rabi       ,Other  Rabi pulses,300,100
+Maharashtra,BEED,2012,Rabi       ,Rapeseed &Mustard,400,100
+Maharashtra,BEED,2012,Rabi       ,Safflower,2600,900
+Maharashtra,BEED,2012,Rabi       ,Sunflower,700,200
+Maharashtra,BEED,2012,Rabi       ,Wheat,27700,27000
+Maharashtra,BEED,2013,Kharif     ,Arhar/Tur,56400,37700
+Maharashtra,BEED,2013,Kharif     ,Bajra,122100,130300
+Maharashtra,BEED,2013,Kharif     ,Cotton(lint),338600,546400
+Maharashtra,BEED,2013,Kharif     ,Groundnut,5900,5000
+Maharashtra,BEED,2013,Kharif     ,Jowar,18100,23100
+Maharashtra,BEED,2013,Kharif     ,Maize,5200,6900
+Maharashtra,BEED,2013,Kharif     ,Moong(Green Gram),3100,1900
+Maharashtra,BEED,2013,Kharif     ,Niger seed,600,200
+Maharashtra,BEED,2013,Kharif     ,Other Kharif pulses,2600,1600
+Maharashtra,BEED,2013,Kharif     ,Rice,500,300
+Maharashtra,BEED,2013,Kharif     ,Sesamum,2400,800
+Maharashtra,BEED,2013,Kharif     ,Soyabean,93500,174200
+Maharashtra,BEED,2013,Kharif     ,Sunflower,1800,900
+Maharashtra,BEED,2013,Kharif     ,Urad,13700,8400
+Maharashtra,BEED,2013,Rabi       ,Gram,63400,47260
+Maharashtra,BEED,2013,Rabi       ,Jowar,262300,170200
+Maharashtra,BEED,2013,Rabi       ,Linseed,800,250
+Maharashtra,BEED,2013,Rabi       ,Maize,9200,11500
+Maharashtra,BEED,2013,Rabi       ,Safflower,3500,5140
+Maharashtra,BEED,2013,Rabi       ,Sunflower,700,420
+Maharashtra,BEED,2013,Rabi       ,Wheat,57800,57100
+Maharashtra,BEED,2014,Kharif     ,Arhar/Tur,60600,10200
+Maharashtra,BEED,2014,Kharif     ,Bajra,127100,56200
+Maharashtra,BEED,2014,Kharif     ,Castor seed,3300,700
+Maharashtra,BEED,2014,Kharif     ,Cotton(lint),373300,167600
+Maharashtra,BEED,2014,Kharif     ,Groundnut,10800,2600
+Maharashtra,BEED,2014,Kharif     ,Jowar,19400,10300
+Maharashtra,BEED,2014,Kharif     ,Maize,6200,4700
+Maharashtra,BEED,2014,Kharif     ,Moong(Green Gram),5000,1200
+Maharashtra,BEED,2014,Kharif     ,Niger seed,800,100
+Maharashtra,BEED,2014,Kharif     ,Other Kharif pulses,2000,400
+Maharashtra,BEED,2014,Kharif     ,Rice,400,100
+Maharashtra,BEED,2014,Kharif     ,Sesamum,2900,500
+Maharashtra,BEED,2014,Kharif     ,Soyabean,113400,39900
+Maharashtra,BEED,2014,Kharif     ,Sunflower,1700,600
+Maharashtra,BEED,2014,Rabi       ,Gram,64400,24000
+Maharashtra,BEED,2014,Rabi       ,Jowar,250400,134800
+Maharashtra,BEED,2014,Rabi       ,Linseed,700,100
+Maharashtra,BEED,2014,Rabi       ,Maize,8500,5900
+Maharashtra,BEED,2014,Rabi       ,Safflower,1900,300
+Maharashtra,BEED,2014,Rabi       ,Sunflower,500,100
+Maharashtra,BEED,2014,Rabi       ,Wheat,59100,40000
