@@ -1,0 +1,105 @@
+<html>
+    <head>
+        <style type="text/css">
+            body{
+                background-image: url(Blood.jpg);
+                background-position: center;
+                background-size: cover;
+                margin-top: 40px;
+            }
+
+            form{
+                padding: 10px;
+            }
+
+            .container{
+                width: 800px;
+                background-color: rgba(0, 0, 0, 0.3);
+                margin: auto;
+                color: #FFFFFF;
+                padding: 10px 0px 10px 0px;
+                text-align: center;
+                border-radius: 15px 15px 0px 0px;
+            }
+
+            #name{
+                width: 30%;
+                height: 30px;
+            }
+            .name{
+                margin-left: 20px;
+                margin-top: 100px;
+                width: 125px;
+                color: white;
+                font-size: 18px;
+                font-size: 100000;
+
+            }
+        </style>
+
+    </head>
+    <body>
+        <form action="">
+            <div class="container">
+                <h1>ANGEL BLOOD ORGANIZATION</h1>
+                <p>Register as a Blood Donor.</p>
+                <hr>
+
+                <label for="name"><b>FULL NAME</b></label>
+                <input type="text" placeholder="First Name" name="name" id="name" required>
+                <input type="text" placeholder="Last Name" name="name" id="name" required>
+                <br><br>
+
+
+                <label for="date"><b>DATE OF BIRTH</b></label>
+                <input type="date" name="date" id="date" required>
+                <br><br>
+
+                <label for="age"><b>AGE</b></label>
+                <input type="text">
+                <br><br>
+
+                <label for="blood"><b>BLOOD GROUP</b></label>
+                <select name="blood" id="blood">
+                    <option value="A">A</option>
+                    <option value="B">B</option>
+                    <option value="AB">AB</option>
+                    <option value="O">O</option>
+                </select>
+                <br><br
+
+                <label for="phone"> PHONE</label>
+                <input type="text" name="Country code" value="+91" size=2>
+                <input type="text" name="phone" size="10"/><br><br>
+
+                <label for="address"><b>ADDRESS</b></label>
+                <!-- <input type="text" placeholder="village" name="address" id="address" required>
+                <input type="text" placeholder="taluka" name="address" id="address" required> -->
+                <input type="text" placeholder="city" name="address" id="address" required>
+                <br><br>
+
+
+                <label for="email"><b>EMAIL</b></label>
+                <input type="text" placeholder="Enter Email" name="email" id="email" required>
+                <br><br>
+
+                <label for="psw"><b>PASSWORD</b></label>
+                <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
+                <br><br>
+
+                <label for="psw-repeat"><b>REPEAT PASSWORD</b></label>
+                <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+                <br><br>
+
+                
+                <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
+
+                <button type="submit">Register</button>
+            </div>
+
+            <!-- <div class="main">
+                <p>Already have an account? <a href="#">Sign in</a>.</p>
+              </div> -->
+        </form>
+    </body>
+</html>
