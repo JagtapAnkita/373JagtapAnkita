@@ -1,0 +1,100 @@
+*{
+    box-sizing: border-box; 
+ }
+
+ body{
+    background-image: url(Blood1.jpg);
+    background-position: center;
+    background-size: 1800px;
+    background-position-x: lef;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 40px;
+    
+}
+ .container{
+     background-color: rgb(148,140,140,0.5);
+     border:1px solid black;
+     border-radius: 5px;
+     padding: 10px;
+     width: 800px;
+     color: white;
+     margin: auto;
+ }
+ 
+ .row::after{
+     content: " ";
+     display: table;
+     clear: both;
+     
+ }
+ .col-1{
+     width: 25%;
+     height: 50px;
+     float:left;
+     margin-top: 5px;
+     font-size: 20px;
+     font-weight: 700;
+ }
+
+ .col-10,.col-20{
+    width: 32%;
+    height: 50px;
+    float:left;
+    margin-top: 5px;
+}
+ .col-2{
+     position: relative;
+      width: 70%;
+     float:left;
+     margin-top: 5px;
+     line-height: 40px;
+     width: 500px;
+     border-radius: 6px;
+     font-size: 16px;
+    
+ }
+ .col-3{
+    width: 70%;
+    float:left;
+    margin-top: 5px;
+}
+ input[type=text],input[type=password],input[type=email]{
+     width: 100%;
+     padding:5px;
+ }
+ .login{
+     width: 45%;
+     margin: auto;
+     border: 1px solid red;
+     border-radius: 5px;
+     padding: 10px;
+     background-color: bisque;
+ }
+ .registerbutton
+ {
+     font-size: large;
+     color: rgb(17, 2, 22);
+     padding: 16px 20px;
+     margin: 8px 0;
+     cursor: pointer;
+     margin-left: 200px;
+     width: 50%;
+ }
+ button:hover{
+                background: linear-gradient(to left, #1339e6, #74eb98);
+            
+            }
+ .leavespace{
+     margin-top:20px;
+ }
+ .message{
+    margin: 15px 0 0;
+    color:black;
+    font-size: 20px;
+    text-align: center;
+    }
+ .message a{
+    color: rgb(255, 102, 0);
+    text-decoration: none;
+}
+ 

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/css/fontawesome.min.css">
+        
+       <style>
+            *{
+                margin: 0px;
+                padding: 0px;
+                box-sizing: border-box;
+            }
+            body{
+                  background-image: url(home.jpg);
+                  
+                
+                }
+
+                .name{
+                    color: white;
+                    font-size: 50px;
+                }
+            .menu-bar{
+                background: red;
+                text-align: right;
+            }
+            .menu-bar ul{
+                display: inline-flex;
+                list-style: none;
+                color: white;
+            }
+            .menu-bar ul li{
+                width: 100px;
+                margin: 10px;
+                padding: 15px;
+
+            }
+            .menu-bar ul li a{
+                text-decoration: none;
+                color: white;
+            }
+            .menu-bar ul li:hover
+            {
+                background-color: black;
+                border-radius: 3px;
+            }
+            .dropdown-menu{
+                display: none;
+                text-align: center;
+            }
+            .menu-bar ul li:hover .dropdown-menu{
+                display: block;
+                position: absolute;
+                background: red;
+                margin-top: 15px;
+                margin-left: 50px;
+            }
+            .menu-bar ul li:hover .dropdown-menu ul{
+                display: block;
+                margin: 10px;
+            }
+            
+
+        </style>
+    </head>
+    <body>
+        
+        <div class="menu-bar">
+            
+        <ul>
+           
+            <li><a href="#">HOME</a></li>
+            <li><a href="#">PATIENT</a>
+                    <div class="dropdown-menu">
+                        <ul>
+                            <li><a href="patientreg.html">Register</a></li>
+                            <li><a href="patientlog.html">Login</a></li>
+                        </ul>
+                    </div>
+            
+            
+            </li>
+            <li><a href="#">DONOR</a>
+                <div class="dropdown-menu">
+                    <ul>
+                        <li><a href="Donor.html">Register</a></li>
+                        <li><a href="Donorlog.html">Login</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li><a href="AdminLogin.html">ADMIN </a></li>
+        </ul>
+    </div>
+    <h1 class="name" align="center">ANGEL BLOOD ORGANIZATION</h1>
+    </body>
+
+
+</html>

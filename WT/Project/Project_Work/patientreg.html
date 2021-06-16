@@ -1,0 +1,251 @@
+
+<!doctype html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title></title>
+        <style type="text/css">
+            *{
+                margin: 0;
+                padding: 0;
+            }
+            body{
+                    background-image: url(p1.jpg);
+                    background-position: center;
+                    background-size: cover;
+                    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                    margin-top: 40px;
+            }
+            .signform{
+                width: 800px;
+                /*background-color: rgba(0, 0, 0, 0.6);*/
+                background: linear-gradient(to left, #74eb98,#9face6);
+                margin: auto;
+                color:#0e0d0d;
+                padding: 10px 0px 10px 0px;
+                text-align: center;
+                border-radius: 15px 15px 0px 0px;
+            }
+            .main{
+                background-color: rgb(148,140,140,0.5);
+                width: 800px;
+                margin: auto;
+                }
+            form{
+                padding: 10px;
+                }
+            #name{
+                    width: 100%;
+                    height: 50px;
+                }
+            .name{
+                margin-left: 25px;
+                margin-top: 30px;
+                width: 125px;
+                color: white;
+                font-size: 18px;
+                font-weight: 700;
+                }
+            .FirstName{
+                        position: relative;
+                        left: 200px;
+                        top: -37px;
+                        line-height: 40px;
+                        border-radius: 6px;
+                        padding: 0 22px;
+                        font-size: 16px;
+                      }
+            .LastName{
+                        position: relative;
+                        left: 517px;
+                        top: -80px;
+                        line-height: 40px;
+                        border-radius: 6px;
+                        padding: 0 22px;
+                        font-size: 16px;
+                        color: #555;
+                    }
+             .name1{
+                        position: relative;
+                        left: 200px;
+                        top: -37px;
+                        line-height: 40px;
+                        width: 515px;
+                        border-radius: 6px;
+                        padding: 0 22px;
+                        font-size: 16px;
+                        color: #555;
+                  }
+            
+            .option{
+                position: relative;
+                left: 200px;
+                top: -37px;
+                width: 200px;
+                height: 40px;
+                line-height: 40px;
+                border-radius: 6px;
+                padding: 0 22px;
+                font-size: 16px;
+                color: #555;
+                outline: none;
+                overflow: hidden;
+                }
+            button{
+                background: linear-gradient(to left, #74eb98,#173de9);
+                display: block;
+                margin: 20px 0px 0px 20px;
+                text-align: center;
+                border-radius: 12px;
+                border:2px solid rgb(229, 233, 26);
+                padding: 14px 110px;
+                outline: none;
+                color: rgb(15, 14, 14);
+                cursor: pointer;
+                transform: 0.25px;
+                font-size: 20px;
+                }
+            
+            button:hover{
+                background: linear-gradient(to left, #1339e6, #74eb98);
+            
+            }
+            .message{
+                margin: 15px 0 0;
+                color:white;
+                font-size: 20px;
+                text-align: center;
+                }
+            .message a{
+                    color: rgb(255, 102, 0);
+                    text-decoration: none;
+            }
+            
+            </style>
+    
+
+    </head>
+
+    <body>
+        <div class="signform"><h1>PATIENT SIGNUP</h1></div>
+        <div class="main">
+            <form method="POST" action="patientlog.html" name="reg_form" onsubmit="return validate()">
+                <div id="name">
+                    <h2 class="name">Name</h2>
+                    <input class="FirstName" type="text" name="First_name" placeholder="First Name" ><br>
+                    <input class="LastName" type="text" name="Last_name" placeholder="Last Name" ><br>
+                
+                </div>
+
+                <h2 class="name">Username</h2>
+                <input class="name1" type="text" name="username" placeholder="Username" id="uid" value="">
+                
+                
+                <h2 class="name">Password</h2>
+                <input class="name1" type="password" name="password" placeholder="Password" id="pass"  value="">
+
+                <h2 class="name">Confirm Password</h2>
+                <input class="name1" type="password" name="password" placeholder="Confirm Password" id="cpass" >
+
+                <h2 class="name">Age</h2>
+                <input class="name1" type="number" name="age" placeholder="Age" id="age">
+
+                <h2 class="name">Blood Group</h2>
+                <select class="option" name="bloodgroup">
+                    <option disabled="disabled" selected="selected">Choose Option</option>
+                    <option>A+</option>
+                    <option>A-</option>
+                    <option>B+</option>
+                    <option>B-</option>
+                    <option>AB+</option>
+                    <option>AB-</option>
+                    <option>O+</option>
+                    <option>O-</option>
+                </select>
+
+                <h2 class="name">Disease</h2>
+                <input class="name1" type="text" name="disease" placeholder="Disease" id="disease" >
+
+                <h2 class="name">Doctor Name</h2>
+                <input class="name1" type="text" name="doctor name" placeholder="Doctor Name" id="dname"  >
+
+                <h2 class="name">Address</h2>
+                <input class="name1" type="text" name="address" placeholder="Adddress" id="add" >
+
+                <h2 class="name">Mobile</h2>
+                <input class="name1" type="number" name="mobile" placeholder="Mobile" id="phone" >
+
+                <button type="submit">Register</button>
+                <p class="message">Already Registered ?<a href="patientlog.html">Login</a></p>
+            </form>
+        </div>
+    </body>
+    <script>
+        function validate()
+        {
+            var user=document.getElementById('uid');
+            var p=document.getElementById('pass');
+            var c=document.getElementById('cpass');
+            var d=document.getElementById('disease');
+            var ad=document.getElementById('add')
+            var m=document.getElementById('phone')
+            if(user.value.length <= 5 )
+            {
+                alert("Name is Incorrect");
+                user.style="border:2px solid red";
+                user.placeholder="Please Enter Username at least 5 character.";
+                return false;
+            } 
+        
+            else if(p.value=="" || p.value.length <= 5)
+            {
+                alert("Password is Incorrect");
+                p.style="border:2px solid red";
+                p.placeholder="Password must be greater than 5";
+                return false;
+            }
+            else if(c.value!=p.value)
+            {
+                alert("Confirm Password is Incorrect");
+                c.style="border:2px solid red";
+                c.placeholder="Please Enter same password as in the above Field.";
+                return false;
+                
+            }
+            else if(d.value=="")
+            {
+                alert("Doctor Name is required");
+                d.style="border 2px solid red";
+                d.placeholder="Please Enter Doctor Name.";
+                return false;
+            }
+           else if(ad.value=="")
+           {
+               alert("Address is required");
+               ad.style="border 2px solid red";
+               ad.placeholder="Please Enter the Address";
+               return false;
+           }
+           else if(m.value=="" || m.value.length<10 || m.value.length>10)
+            {
+                alert("Mobile Number is Incorrect");
+                m.style="border 2px solid red";
+                m.placeholder="Enter only 10 digit number";
+                return false;
+            }
+        
+            else
+            {
+                return true;
+                alert("Hey,Register Successfull");
+
+            }
+            
+            
+            
+         }
+                     
+    </script>
+    
+</html>

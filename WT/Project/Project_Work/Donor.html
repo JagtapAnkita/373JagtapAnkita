@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Donor Registration Form</title>
+
+        <link rel="stylesheet" href="style.css">
+        <script type="text/javascript">
+        function validate()
+        {
+            var fname=document.getElementById('fname');
+            var user=document.getElementById('uname');
+            var pwd=document.getElementById('pwd');
+            var cpwd=document.getElementById('cpwd');
+            var email=document.getElementById('email');
+            var age=document.getElementById('age');
+            var efilter = /^([a-zA-Z0-9\_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+            var add=document.getElementById('add');
+            var mobile=document.getElementById('mobile');
+            
+            if(fname.value=="")
+            {
+                alert("Name can not be blank");
+                fname.style="border:2px solid red";
+                fname.placeholder="Enter Full name!!";
+                return false;
+            }
+            else if(add.value=="")
+           {
+               alert("Fill the address Field");
+               add.style="border 2px solid red";
+               add.placeholder="Please Enter the Address";
+               return false;
+           }
+           else if(age.value=="" && age.value<18 && age.value>60)
+           {
+            alert("Age is blank or Not valid");
+                age.style="border 2px solid red";
+                age.placeholder="Age(Between 18 - 60)";
+                return false;
+
+           }
+           else if(!efilter.test(email) && email.value=="")
+           {
+            alert("Email is incorrect");
+                email.style="border 2px solid red";
+                email.placeholder="Enter Email";
+                return false;
+
+           }
+
+           else if(mobile.value=="" && mobile.value.length==10)
+            {
+                alert("Mobile Number is Incorrect");
+                mobile.style="border 2px solid red";
+                mobile.placeholder="Enter only 10 digit number";
+                return false;
+            }
+            else if(user.value.length <= 6 )
+            {
+                alert(" User Name is blank or Incorrect");
+                user.style="border:2px solid red";
+                user.placeholder="Please Enter Username at least 6 character.";
+                return false;
+            } 
+        
+            else if(pwd.value=="" || pwd.value.length <= 5)
+            {
+                alert("Password is Blank or Does not Match!");
+                pwd.style="border:2px solid red";
+                pwd.placeholder="Password must be greater than 5";
+                return false;
+            }
+            else if(cpwd.value!=pwd.value)
+            {
+                alert("Confirm Password is Incorrect");
+                cpwd.style="border:2px solid red";
+                cpwd.placeholder="Please Enter same password as in the above Field.";
+                return false;
+                
+            }
+            else
+            {
+                return true;
+                alert("Hey,Register Successfull");
+
+            }
+            
+            
+            
+         }
+       </script>
+    </head>
+    <body>
+        <h1 align="center">ANGEL BLOOD ORGANIZATION</h1>
+        <hr>
+        <div class="container">
+               <form name="donor" action="Donorlog.html" name="reg_form" onsubmit="return validate()">
+                <h3 align="center">Register as a Blood Donor.</h3>
+
+                
+                <div class="row">
+                    <div class="col-1"><label>Full Name:</label></div>
+                    <div class="col-2"><input type="text" name="fname" placeholder="Full Name" id="fname"></div>
+                </div>
+
+                <div class="row">
+                    <div class="col-1"><label>Address:</label></div>
+                    <div class="col-2"><input type="text" name="hometown" placeholder="Home Town" id="add"></div>
+                </div>
+
+                <div class="row">
+                    <div class="col-1"><label>Gender:</label></div>
+                    <div class="col-2">
+                        <input type="radio" name="gender" value="Male" >Male
+                        <input type="radio" name="gender" value="Female">Female
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-1"><label>Age:</label></div>
+                    <div class="col-2"><input type="text" name="age" placeholder="Age" id="age"></div>
+                </div>
+
+                <div class="row">
+                    <div class="col-1"><label>Blood Group:</label></div>
+                    <div class="col-2"><select name="Bgroup">
+                        <option>Select Blood Group</option>
+                        <option>O+</option>
+                        <option>A+</option>
+                        <option>B+</option>
+                        <option>AB+</option>
+                        </select></div>
+                </div>
+
+                <div class="row">
+                    <div class="col-1"><label>Email:</label></div>
+                    <div class="col-2"><input type="text" name="email" placeholder="Enter Email ID" id="email"></div>
+                </div>
+
+                <div class="row">
+                    <div class="col-1"><label>Mobile No.:</label></div>
+                    <div class="col-2"><input type="text" name="phone" placeholder="Mobile Number" id="mobile"></div>
+                </div>
+
+                <div class="row">
+                    <div class="col-1"><label>UserName:</label></div>
+                    <div class="col-2"><input type="text" name="uname" placeholder="Enter UserName" id="uname"></div>
+                </div>
+                <div class="row">
+                    <div class="col-1"><label>Password:</label></div>
+                    <div class="col-10"><input type="password" name="pwd" placeholder="Enter Password" id="pwd"><br></div>
+                
+                    <div class="col-20"><input type="password" name="cpwd" placeholder="Repeat Password" id="cpwd"></div>
+                </div>
+                        <button type="submit" class="registerbutton">Register</button>
+                        <p class="message">Already Registered ?<a href="Donorlog.html">Login</a></p>
+            </form>
+        </dir> 
+        </div>
+    </body>
+</html>
