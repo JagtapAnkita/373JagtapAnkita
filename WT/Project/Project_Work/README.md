@@ -1,4 +1,4 @@
-# online-blood-bank-management-system-in-php
+# online-blood-bank-management-system
 
 It contains with the 2 modules
 1) Donor Module
