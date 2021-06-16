@@ -1,4 +1,4 @@
-# online-blood-bank-management-system
+# Online Blood-Bank Management System
 
 It contains with the 2 modules
 1) Donor Module
